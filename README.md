@@ -1,4 +1,4 @@
-<h1>Hi, I'm Edward! <br/><a href="https://github.com/TechSecNerd">Programmer</a> and <a href="https://www.linkedin.com/in//">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Edward! <br/><a href="https://github.com/TechSecNerd">IT Technician</a> and <a href="https://www.linkedin.com/in//">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
